@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nirmit Gupta</h1>
 
 # 💫 About Me:
-<br>👯 I’m looking to collaborate on ML, DL, NLP<br><br>💬 Ask me about ML, DL, NLP
+<br>Software Engineer<br><br>👯 I’m looking to collaborate on ML, DL, NLP<br><br>💬 Ask me about ML, DL, NLP
 
 # 🌐 Socials:
 <h3 align="left">Connect with me:</h3>
